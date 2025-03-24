@@ -42,7 +42,7 @@ test("render the HomeRoute component", async () => {
   }
 });
 
-const pause = () =>
-  new Promise((resolve) => {
-    setTimeout(resolve, 1000);
-  });
+// const pause = () =>
+//   new Promise((resolve) => {
+//     setTimeout(resolve, 1000);
+//   });
